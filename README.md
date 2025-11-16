@@ -42,19 +42,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=koradiyamilan12&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=koradiyamilan12&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=koradiyamilan12&theme=react-dark" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/milankoradiya)
