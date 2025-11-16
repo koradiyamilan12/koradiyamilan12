@@ -1,12 +1,14 @@
 <h1 align="center">Hi there, I'm Milan Koradiya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=React.js+Developer;Full+Stack+Enthusiast;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+%2B+PostgreSQL;TypeScript+Enthusiast;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/koradiyamilan12"><img src="https://img.shields.io/github/followers/koradiyamilan12?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/milankoradiya"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/milankoradiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="mailto:milankoradiya.work@gmail.com"><img src="https://img.shields.io/badge/Email-DM-blue" /></a>
 </p>
 
@@ -14,10 +16,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **React.js applications** & exploring the **MERN stack**
-- 🌱 Learning **Node.js**, **TypeScript**, and modern web performance techniques
-- 🧠 Always curious to learn and improve
-- 💬 Ask me about anything related to **React**, **JavaScript**, or **Frontend Development**
+- 🔭 I’m currently building **Full Stack applications** using **MERN + TypeScript**
+- 🛢 Exploring **PostgreSQL** for scalable backend systems
+- 🌱 Learning advanced **Node.js**, **API design**, and **backend architecture**
+- 💬 Ask me about **React**, **Node.js**, **TypeScript**, or **Full Stack Development**
 - ⚡ Fun fact: I debug with snacks 🍫
 
 ---
@@ -33,6 +35,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -42,12 +45,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=koradiyamilan12&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=koradiyamilan12&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=koradiyamilan12&theme=react-dark" />
 </p>
 
 ---
@@ -56,12 +59,12 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/milankoradiya)
 - 🌐 [Portfolio Website](http://milankoradiya.me/)
-- 📧 Email: milankoradiya.work@gmail.com
+- 📧 Email: **milankoradiya.work@gmail.com**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koradiyamilan12&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
