@@ -45,7 +45,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/milankoradiya)
-- 🌐 [Portfolio Website](https://milan-koradiya.vercel.app/)
+- 🌐 [Portfolio Website](https://milan-koradiya.vercel.app)
 - 📧 Email: **milankoradiya.work@gmail.com**
 
 ---
