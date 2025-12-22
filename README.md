@@ -18,9 +18,8 @@
 
 - 🔭 I’m currently building **Full Stack applications** using **MERN + TypeScript**
 - 🛢 Exploring **PostgreSQL** for scalable backend systems
-- 🌱 Learning advanced **Node.js**, **API design**, and **backend architecture**
-- 💬 Ask me about **React**, **Node.js**, **TypeScript**, or **Full Stack Development**
-- ⚡ Fun fact: I debug with snacks 🍫
+- 🌱 Learning advanced **DSA**, **system design**, and **Gen AI**
+- 💬 Ask me about **React**, **Next.js**, **Node.js**, **TypeScript**, or **Full Stack Development**
 
 ---
 
