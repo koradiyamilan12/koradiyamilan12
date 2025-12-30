@@ -7,12 +7,6 @@ Junior Full-Stack Developer | MERN + PostgreSQL | React & Node.js
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=20&lines=Junior+Full+Stack+Developer;React+Developer+Intern;Node.js+Backend+Intern;MERN+Stack+%2B+PostgreSQL;Building+Production+Ready+Apps;Open+to+Work" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/koradiyamilan12">
-    <img src="https://img.shields.io/github/followers/koradiyamilan12?label=Follow&style=social" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
