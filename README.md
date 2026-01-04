@@ -30,7 +30,7 @@ Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Dev
 - Developing **secure REST APIs** using Node.js & Express
 - Hands-on experience with **JWT Authentication & Authorization**
 - Database design & integration using **MongoDB & PostgreSQL**
-- Experience with **Git, GitHub, Postman, Docker basics**
+- Experience with **Git, GitHub, Postman, Docker**
 - Familiar with **real-world project lifecycle & agile workflows**
 
 ---
@@ -71,15 +71,6 @@ Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Dev
 ✔️ Internship real-world assignments  
 
 👉 **Check pinned repositories below ⬇️**
-
----
-
-## 📌 Currently Learning
-
-- 📈 Advanced **Data Structures & Algorithms**
-- 🏗️ **System Design fundamentals**
-- 🔄 Backend **scalability & best practices**
-- 🤖 **Generative AI** integrations in web apps
 
 ---
 
