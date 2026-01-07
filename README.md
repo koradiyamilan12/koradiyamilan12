@@ -105,5 +105,4 @@ Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Dev
 
 <p align="center">
 ✨ Thank you for visiting my profile!  
-I’m always open to learning, collaboration, and new opportunities 🚀
 </p>
