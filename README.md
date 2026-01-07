@@ -63,17 +63,6 @@ Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Dev
 
 ---
 
-## 📂 Projects & Work
-
-✔️ Full-Stack MERN applications  
-✔️ Backend-only REST APIs  
-✔️ Authentication & role-based access  
-✔️ Internship real-world assignments  
-
-👉 **Check pinned repositories below ⬇️**
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
