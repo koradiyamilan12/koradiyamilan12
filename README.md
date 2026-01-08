@@ -1,65 +1,96 @@
 <h1 align="center">Hi 👋, I'm Milan Koradiya</h1>
 <h3 align="center">
-Junior Full-Stack Developer | MERN + PostgreSQL | React & Node.js
+Junior Full-Stack Developer | MERN + PostgreSQL | React & Node.js Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=20&lines=Junior+Full+Stack+Developer;React+Developer+Intern;Node.js+Backend+Intern;MERN+Stack+%2B+PostgreSQL;Building+Production+Ready+Apps;Open+to+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&lines=Junior+Full+Stack+Developer;React+Developer+Intern;Node.js+Backend+Intern;MERN+Stack+%2B+PostgreSQL;Building+Production+Ready+Apps;Open+to+Work+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Months%20Internship-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** with **6 months of hands-on internship experience**, including:
+I’m a **Junior Full-Stack Developer** with **6+ months of hands-on internship experience** in building real-world, production-grade applications.
 
-- ⚛️ **3 months as a React Developer Intern**
-- 🧩 **3 months as a Node.js Backend Developer Intern**
+**Experience Breakdown:**
+- ⚛️ **3 months – React Developer Intern**
+- 🧩 **3 months – Node.js Backend Developer Intern**
 
-I have practical experience building **real-world web applications**, developing **secure REST APIs**, and working with **authentication, databases, and production workflows**.
+I specialize in building:
+- Clean, responsive & scalable **frontend UIs**
+- Secure, well-structured **backend APIs**
+- End-to-end **full-stack applications**
 
-🎯 **Career Objective:**  
-Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Developer**, or **Node.js Developer** where I can grow, learn from experienced teams, and contribute to **production-grade applications**.
+🎯 **Career Objective**  
+To join a growth-oriented company as a **Junior Full-Stack / React / Node.js Developer** where I can:
+- Learn from senior engineers  
+- Contribute to real production systems  
+- Grow into a strong backend & system design engineer  
 
 ---
 
-## 🧠 Skills Summary
+## 🧠 Core Strengths
 
-- Strong fundamentals of **JavaScript (ES6+) & TypeScript**
-- Building **responsive & accessible UI** using React & Tailwind
-- Developing **secure REST APIs** using Node.js & Express
-- Hands-on experience with **JWT Authentication & Authorization**
-- Database design & integration using **MongoDB & PostgreSQL**
-- Experience with **Git, GitHub, Postman, Docker**
-- Familiar with **real-world project lifecycle & agile workflows**
+- ⚡ Strong in **JavaScript (ES6+) & TypeScript**
+- 🧩 Build **modular, reusable React components**
+- 🔐 Implement **JWT Auth, Role-Based Access, Secure APIs**
+- 🗄️ Design schemas for **MongoDB & PostgreSQL**
+- 🚀 Experience with **real-world project lifecycle**
+- 🧪 API testing with **Postman**
+- 🔄 Version control using **Git & GitHub**
+- 🐳 Basics of **Docker & deployment workflows**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-green?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/REST%20API-00C853?style=flat-square" />
+</p>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
+</p>
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
+</p>
+
+---
+
+## 📌 What I’m Currently Doing
+
+- 🔨 Building **full-stack projects** with React + Node.js
+- 📚 Improving **Data Structures & Algorithms**
+- 🧠 Learning **System Design & Backend Architecture**
+- 🚀 Preparing for **product-based company interviews**
 
 ---
 
@@ -93,5 +124,5 @@ Actively seeking opportunities as a **Junior Full-Stack Developer**, **React Dev
 </p>
 
 <p align="center">
-✨ Thank you for visiting my profile!  
+✨ Thanks for visiting! Let’s build something amazing together 🚀  
 </p>
