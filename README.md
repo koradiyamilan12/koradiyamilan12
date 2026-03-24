@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Koradiya</h1>
 <h3 align="center">
-Junior Full-Stack Developer | MERN + PostgreSQL | React & Node.js Engineer
+Junior Full-Stack Developer | MERN + PostgreSQL
 </h3>
 
 <p align="center">
