@@ -17,7 +17,7 @@ Junior Full-Stack Developer | MERN + PostgreSQL
 
 ## 👨‍💻 About Me
 
-I’m a **Junior Full-Stack Developer** with **6+ months of hands-on internship experience** in building real-world, production-grade applications.
+I’m a **Junior Full-Stack Developer** with **6 months of hands-on internship experience** in building real-world, production-grade applications.
 
 **Experience Breakdown:**
 - ⚛️ **3 months – React Developer Intern**
